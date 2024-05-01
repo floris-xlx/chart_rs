@@ -1,0 +1,11 @@
+[package]
+name = "chart_rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Floris floris@xylex.ai"]
+description = "Blazingly fast charting library"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+image = "0.25.1"
