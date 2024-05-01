@@ -5,6 +5,8 @@ pub mod candle;
 use crate::colors::Color;
 
 
+/// ## A Candlestick figure 
+#[derive(Debug, Clone)]
 pub struct Candlestick {
     pub open: f64,
     pub high: f64,
