@@ -1,3 +1,5 @@
+//! # Render Engine 
+
 pub mod charts;
 pub mod figures;
 pub mod utils;
